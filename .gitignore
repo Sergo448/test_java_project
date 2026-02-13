@@ -1,5 +1,6 @@
-.class
-.jar
+*.class
+*.jar
 target/
 .idea/
 *.iml
+.vscode/
